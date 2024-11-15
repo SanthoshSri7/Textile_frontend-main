@@ -1,1 +1,1 @@
-export const API = "https://zepto-backend-tnqd.onrender.com"
+export const API = "https://textile-backend-main.onrender.com"

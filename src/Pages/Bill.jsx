@@ -32,7 +32,7 @@ function Bill() {
 
     return (
         <div>
-            <h1>Invoice Details for Zepto</h1>
+            <h1>Invoice Details for Dresses</h1>
             <table className='table table-bordered' ref={componentRef}>
                 <thead>
                     <tr>
