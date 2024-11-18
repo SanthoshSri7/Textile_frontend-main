@@ -49,8 +49,8 @@ function Home() {
             </div>
 
             <Flex align="flex-center" gap="large" >
-                <Button type="success" onClick={() => setCategory("fruits")}>Fruits</Button>
-                <Button type="success" onClick={() => setCategory("vegetables")}>Vegetables</Button>
+                <Button type="success" onClick={() => setCategory("fruits")}>T-shirts</Button>
+                <Button type="success" onClick={() => setCategory("vegetables")}>Jeans</Button>
             </Flex>
             <hr />
             <div className="item-display">
